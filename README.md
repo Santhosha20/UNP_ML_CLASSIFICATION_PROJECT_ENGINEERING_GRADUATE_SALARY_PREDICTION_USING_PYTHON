@@ -19,7 +19,7 @@
 
 ### Documentation & Data
 
-* **Project Presentation:** [[View Slides (Google Slides)](https://google.com)](https://docs.google.com/presentation/d/1rZrM9z54SF7UZT3zji0wF_sHl3smegdj/edit?usp=sharing&ouid=116368063423906871146&rtpof=true&sd=true)
+* **Project Presentation:** https://docs.google.com/presentation/d/1rZrM9z54SF7UZT3zji0wF_sHl3smegdj/edit?usp=sharing&ouid=116368063423906871146&rtpof=true&sd=true)
 * **Dataset (`salary.csv`):** https://drive.google.com/file/d/1kNAqoLfBQ5EccRd1Xr0o-Xw3E5BHM5rr/view?usp=sharing
 * **Dataset Documentation:** https://docs.google.com/spreadsheets/d/1GV66XG5OOmQAJUm6Vue9uZ00B_mEEtqA/edit?usp=sharing&ouid=116368063423906871146&rtpof=true&sd=true
 
